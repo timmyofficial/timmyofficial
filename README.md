@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working On Nothing<br>I know Python and lua currently
+Im currently working On Hackintosh's and other projects.<br>I know Python and lua currently
 
 
 ## 🌐 Socials:
